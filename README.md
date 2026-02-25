@@ -47,3 +47,7 @@ graph TD
 
 ## 🤝 Contributing
 Open to PRs optimizing yield heuristics and integrating additional EVM-compatible chains.
+
+## ?? Future Roadmap & Enhancements
+- **Cross-Chain Yield Routing**
+- **Dedicated light node or lower-latency indexer**
